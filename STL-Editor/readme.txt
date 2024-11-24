@@ -16,3 +16,30 @@ Language Support:
 
 Multi-language Parsing: Supports parsing of multiple languages as defined in the STL file.
 Configurable Languages: Easily adjust which languages to parse and display.
+
+
+
+
+Code Structure
+The application is primarily contained within a single Python script, organized into several key sections and functions for clarity and maintainability.
+
+Main Sections:
+Imports:
+
+Import necessary modules and libraries.
+Utility Functions:
+
+read_bstr: Reads a length-prefixed string from a binary file.
+write_bstr: Writes a length-prefixed string to a binary file.
+Core Functions:
+
+parse_stl: Parses an STL file and extracts relevant data.
+write_stl: Writes data back to an STL file in the correct format.
+display_data_gui: Constructs and manages the GUI components.
+Event Handlers:
+
+update_treeview: Updates the Treeview based on search criteria.
+on_double_click: Handles editing of Treeview entries.
+Main Execution:
+
+main: Orchestrates the application flow, including file selection and GUI initialization.
