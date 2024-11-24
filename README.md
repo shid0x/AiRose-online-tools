@@ -4,7 +4,7 @@ The goal of the experiment is to see how far can current models go from 0.
 
 Currently available :
 
-  **STB editor**   Made by O1-Mini           <span style="color:green">Working</span>
+  **STB editor**   Made by O1-Mini           
  
-  **STL editor**   Made By O1-Preview        <span style="color:green">Working.</span>
+  **STL editor**   Made By O1-Preview        
   
