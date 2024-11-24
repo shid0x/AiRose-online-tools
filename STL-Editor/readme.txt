@@ -43,3 +43,8 @@ on_double_click: Handles editing of Treeview entries.
 Main Execution:
 
 main: Orchestrates the application flow, including file selection and GUI initialization.
+
+
+
+
+A STL is included for ease of use
