@@ -28,6 +28,14 @@ There are two options :
 
 2 : USing AiRose assistant : This is an assitant that was made using the openAI api and feed all dialog lines from Rose online alongside some of the official lore. Supposedely it can make more taylored results.
 
+## Requirements
+
+- PyQt5
+- pyinstaller
+- openai
+- python-dotenv
+- Your OPENAI api key in the .env (if you want to use AiGeneration )
+
 
 
 
