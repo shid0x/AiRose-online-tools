@@ -16,6 +16,7 @@ This particular one has been made by using both Claude.ai and O1-mini interestin
 - Import a CSV file and merging it with the LTB file
 - Search bar
 - Add row
+- Change encoding on the fly from utf-16le to euc-kr as those are the most used in rose Online
 - Ai dialog generation
 
 ## About AI generation
